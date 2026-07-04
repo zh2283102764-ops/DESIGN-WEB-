@@ -1,0 +1,6 @@
+{
+  "name": "Design Portfolio",
+  "description": "个人设计作品集网页，展示UI设计、品牌、视觉、包装及3D设计，采用高透高斯模糊与浅蓝粉渐变高级质感，强调交互逻辑。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
